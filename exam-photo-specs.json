@@ -1,0 +1,155 @@
+[
+  {
+    "exam": "CTET",
+    "fullName": "Central Teacher Eligibility Test (CTET)",
+    "conductedBy": "the Central Board of Secondary Education (CBSE)",
+    "photo": {
+      "minKb": 10,
+      "maxKb": 100,
+      "dimensions": "3.5 cm (width) x 4.5 cm (height)",
+      "format": "JPG/JPEG"
+    },
+    "signature": {
+      "minKb": 3,
+      "maxKb": 30,
+      "dimensions": "3.5 cm (length) x 1.5 cm (height)",
+      "format": "JPG/JPEG"
+    },
+    "quotes": [
+      "Size of scanned photograph should be between 10 to 100 KB",
+      "Image Dimension of photograph should be 3.5 cm (width) x 4.5 cm (height).",
+      "Size of scanned signature should be between 3 KB to 30 KB.",
+      "Image Dimension of signature should be 3.5 cm (length) x 1.5 cm (height).",
+      "The candidates are advised to keep the scanned images of latest photograph and signature of the candidates ready in JPEG/JPG format and as per the size and dimension specified, before applying online."
+    ],
+    "source": {
+      "label": "CTET–February 2026 Information Bulletin (ctet.nic.in)",
+      "url": "https://cdnbbsr.s3waas.gov.in/s3443dec3062d0286986e21dc0631734c9/uploads/2025/11/202511271651651092.pdf",
+      "archivedCopy": null
+    },
+    "verifiedOn": "2026-07-14",
+    "page": "https://docexp.com/exam/ctet-photo-signature-size"
+  },
+  {
+    "exam": "SSC",
+    "fullName": "Staff Selection Commission (SSC) — CGL and other online applications",
+    "conductedBy": "the Staff Selection Commission (SSC), Government of India",
+    "photo": null,
+    "signature": {
+      "minKb": 10,
+      "maxKb": 20,
+      "dimensions": "about 6.0 cm (width) x 2.0 cm (height)",
+      "format": "JPEG/JPG"
+    },
+    "quotes": [
+      "In the online Application Form, candidates are required to capture their live photo through webcam/mobile device and upload.",
+      "In no case should the candidate capture the photographs of his/her pre-existing photograph.",
+      "All such applications where the photographs of his/her pre-existing photograph is captured will be rejected.",
+      "Candidates should not wear a cap, mask or glasses/spectacles while capturing the photo.",
+      "Candidates are required to upload the scanned signature in JPEG/JPG format (10 to 20 KB).",
+      "Image dimension of the signature should be about 6.0 cm (width) x 2.0 cm (height).",
+      "Applications with blurred/miniature signatures, not meeting the above requirements, will be rejected summarily."
+    ],
+    "source": {
+      "label": "SSC Combined Graduate Level Examination notice (ssc.gov.in)",
+      "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_cgl_2025.pdf",
+      "archivedCopy": null
+    },
+    "verifiedOn": "2026-07-14",
+    "page": "https://docexp.com/exam/ssc-photo-signature-size"
+  },
+  {
+    "exam": "NEET",
+    "fullName": "National Eligibility cum Entrance Test — NEET (UG)",
+    "conductedBy": "the National Testing Agency (NTA)",
+    "photo": {
+      "minKb": 10,
+      "maxKb": 200,
+      "dimensions": "passport size",
+      "format": "JPG/JPEG"
+    },
+    "signature": {
+      "minKb": 10,
+      "maxKb": 100,
+      "format": "JPG/JPEG"
+    },
+    "quotes": [
+      "Photograph should be in JPG/JPEG format (clearly legible) between 10 kb to 200 kb.",
+      "Candidates must ensure that the recent passport size photograph should be either in colour or black & white with 80% face (without mask) visible including ears against white background.",
+      "Signature file should be in JPG/JPEG format between 10 kb to 100 kb.",
+      "Left and Right Hands Fingers and Thumb impressions in JPG/JPEG format between 10 kb to 200 kb.",
+      "Candidates are advised to take 6-8 Passport size coloured photographs with white background."
+    ],
+    "source": {
+      "label": "NEET (UG) 2026 Information Bulletin (neet.nta.nic.in)",
+      "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/02/202602231394640855.pdf",
+      "archivedCopy": null
+    },
+    "verifiedOn": "2026-07-14",
+    "page": "https://docexp.com/exam/neet-photo-signature-size"
+  },
+  {
+    "exam": "JEE Main",
+    "fullName": "Joint Entrance Examination (Main) — JEE (Main)",
+    "conductedBy": "the National Testing Agency (NTA)",
+    "photo": {
+      "minKb": 10,
+      "maxKb": 200,
+      "dimensions": "recent passport size",
+      "format": "JPG/JPEG"
+    },
+    "signature": {
+      "minKb": 10,
+      "maxKb": 100,
+      "format": "JPG/JPEG"
+    },
+    "quotes": [
+      "Photograph in JPG/JPEG format (clearly legible) between 10 kb to 200 kb.",
+      "The recent passport size photograph should be in colour with 80% face (without mask) visible including ears against white background.",
+      "Signature file should be JPG/JPEG format (clearly legible) between 10 kb to 100 kb."
+    ],
+    "source": {
+      "label": "JEE (Main) 2026 Information Bulletin (jeemain.nta.nic.in)",
+      "url": "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/11/202511021649722475.pdf",
+      "archivedCopy": null
+    },
+    "verifiedOn": "2026-07-14",
+    "page": "https://docexp.com/exam/jee-main-photo-signature-size"
+  },
+  {
+    "exam": "UPSC",
+    "fullName": "Union Public Service Commission (UPSC) online applications — CSE and all other examinations",
+    "conductedBy": "the Union Public Service Commission (UPSC), Government of India",
+    "photo": {
+      "minKb": 20,
+      "maxKb": 200,
+      "dimensions": "face must cover at least 75% (3/4th) of the photo",
+      "format": "JPG — the file must be named 'photo'"
+    },
+    "signature": {
+      "minKb": 20,
+      "maxKb": 100,
+      "dimensions": "350 - 500 pixels (as stated in the instructions)",
+      "format": "JPG — the file must be named 'signature'"
+    },
+    "quotes": [
+      "Use a colour photo in jpg format between 20KB and 200KB, saved with the filename 'photo'.",
+      "To upload photo, you must ensure that the photo has 3/4th face coverage.",
+      "This means that the face must cover at least 75% of the area in the photo.",
+      "Photo background shall be plain white.",
+      "Capture of live photograph shall be mandatory for submission of the application for any examination.",
+      "Candidate should sign their own signature three times vertically (one below the other) on a plain white paper using a black ink.",
+      "Save the signature file in jpg format with the file name signature.",
+      "File size: 20 KB – 100 KB",
+      "Image dimensions: 350 - 500 pixels",
+      "Applications with signature files that do not meet the prescribed specifications will be rejected."
+    ],
+    "source": {
+      "label": "UPSC — Instructions for Uploading the Photo & Signature (upsconline.nic.in)",
+      "url": "https://upsconline.nic.in/ngrp/assets/PDF/instruction-photo-signature-upload-upsc.pdf",
+      "archivedCopy": "https://web.archive.org/web/20260729001758/https://upsconline.nic.in/ngrp/assets/PDF/instruction-photo-signature-upload-upsc.pdf"
+    },
+    "verifiedOn": "2026-10-01",
+    "page": "https://docexp.com/exam/upsc-photo-signature-size"
+  }
+]
